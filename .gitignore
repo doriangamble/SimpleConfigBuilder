@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/src/ConfigTest/.vs/ConfigTest/v15
+/src/ConfigTest/obj
+/src/SimpleConfigBuilder/obj
