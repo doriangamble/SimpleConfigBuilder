@@ -6,3 +6,9 @@
 /src/ConfigTest/.vs/ConfigTest/v15
 /src/ConfigTest/obj
 /src/SimpleConfigBuilder/obj
+/src/.vs/ConfigBuilder/v15
+/src/ConfigTest/bin/Debug
+/src/ConfigWrapperTests/bin/Debug
+/src/ConfigWrapperTests/obj/Debug
+/src/packages
+/src/SimpleConfigBuilder/bin/Debug
